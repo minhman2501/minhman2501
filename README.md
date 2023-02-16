@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🔭 I’m currently studying at @HCMUTE 
+- 🌱 I’m currently learning Front-End Devloping
+- 📫 How to reach me: [Facebook](https://www.facebook.com/minhman2501) 
 
 <!--
 **minhman2501/minhman2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
