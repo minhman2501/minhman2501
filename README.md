@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, Redux/Toolkit, Redux Saga**
 
-- 📫 How to reach me **phminhman2501@gmail.com**
+- 📫 How to reach me: **phminhman2501@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
