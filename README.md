@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying at @HCMUTE<br>🌱 I’m currently learning ReactJS, Redux Saga, Redux Toolkit, MaterialUI...<br>📫 How to reach me: phminhman2501@gmail.com<br>
 
+[![](https://visitcount.itsvg.in/api?id=minhman2501&icon=6&color=5)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/minhman2501) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minhman2501) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ph_mman2501) 
@@ -19,6 +20,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=minhman2501&icon=6&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
